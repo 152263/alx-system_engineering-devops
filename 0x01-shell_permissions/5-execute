@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod 654 root hello
+sudo chmod 744 root hello
